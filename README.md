@@ -41,3 +41,5 @@ Please watch this Youtube video on the app's functionality: [GPTJosh Demonstrati
 
 _Unfortunately I have no credits left so I don't get a real response but once I'm able to get credits I will redo the video ;)_
 
+**Disclaimer: While seeing if my video was searchable on Youtube I discovered that a company called JoshGPT exists; please reach out if you want me to change my app's name** 
+
