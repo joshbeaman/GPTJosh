@@ -5,9 +5,11 @@ Uses Anthropic ChatBot API to communicate
 To Run this app:
 
 First you need to get a api key from Anthropic and set it as an enviroment variable:
-'''
+```
 set ANTHROPIC_API_KEY=YourKey
-'''
+```
+
+
 
 install the requirement.txt dependencies:
 '''
