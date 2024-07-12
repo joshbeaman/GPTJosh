@@ -1,8 +1,8 @@
 # GPT Josh READ<>ME
 
-Uses Anthropic ChatBot API to communicate from Server to Client
+This app uses Anthropic ChatBot API to communicate from Server to Client
 
-To Run this app:
+## To Run app:
 
 1. Acquire a API key from Anthropic and set it as an enviroment variable:
 ```
