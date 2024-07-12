@@ -1,6 +1,6 @@
 # GPT Josh READ<>ME
 
-Uses Anthropic ChatBot API to communicate
+Uses Anthropic ChatBot API to communicate from Server to Client
 
 To Run this app:
 
