@@ -24,7 +24,7 @@ npm install axios
 python app.py
 ```
 
-5. In a seperate terminal navigate to chatbot_front end run command:
+5. In a seperate terminal navigate to chatbot_frontend run command:
 ```
 npm start
 ```
