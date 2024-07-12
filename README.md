@@ -32,6 +32,5 @@ npm start
 
 ## App Demonstration
 Please watch this Youtube video on the app's functionality: [GPTJosh Demonstration](https://youtu.be/TGF22gCyx6I). <br>
-Unfortunately I have no credits left so I do not get a real <br>
-response but once I am able to get credits I will redo the video :)
+* Unfortunately I have no credits left so I do not get a real response but once I am able to get credits I will redo the video :) *
 
