@@ -1,4 +1,4 @@
-## GPT Josh READ<>ME
+# GPT Josh READ<>ME
 
 Uses Anthropic ChatBot API to communicate
 
