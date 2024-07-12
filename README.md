@@ -31,5 +31,5 @@ npm start
 ```
 
 ## App Demonstration
-A video demonstration  [GitHub Pages](https://pages.github.com/).
-https://youtu.be/TGF22gCyx6I
+Please watch this Youtube video on the app's functionality: [GPTJosh Demonstration](https://youtu.be/TGF22gCyx6I).
+
