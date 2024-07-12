@@ -4,6 +4,11 @@ This app uses Anthropic ChatBot API to communicate from Server to Client.
 
 See below for video demonstration.
 
+## Coming soon:
+
+1. Light/Dark Mode Switch
+2. Submit feedback input box
+
 ## To Run app:
 
 1. Acquire a API key from Anthropic and set it as an enviroment variable:
